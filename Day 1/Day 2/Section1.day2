@@ -1,0 +1,12 @@
+anything = len("Hello")
+print(anything)
+#Strings
+print("Akhuwat"[8])
+#numbers
+print("8" + "13")
+print(8 +  13)
+#floats
+print(8.13)
+#booleans
+print(True)
+print(False)

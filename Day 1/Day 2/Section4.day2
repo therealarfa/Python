@@ -1,0 +1,21 @@
+bmi = 84 / 1.65 ** 2
+#simple print
+print(bmi)
+#write typr
+print(type(bmi))
+#round off them
+print(round(bmi))
+#round off to three terms
+print(round(bmi, 3))
+#integer addition
+score = 8
+score += 5
+print(score)
+print("Your score is " + str(score))
+#concatenation
+score = 13
+height = 5.2
+is_winner = False
+
+print(f"My score is {score}\nMy height is {height}\nI am winning is {is_winner}")
+

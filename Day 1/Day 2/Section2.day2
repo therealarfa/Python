@@ -1,0 +1,14 @@
+number = len("Hello")
+print(number)
+#string
+print(type('Arfa'))
+#integer
+print(type(813))
+#float
+print(type(8.13))
+#booleans
+print(type(False))
+#example
+username = input("Enter your name")
+length = len(username)
+print("Number of letters in your name: " + str(length))
