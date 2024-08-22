@@ -1,0 +1,17 @@
+print("Welcome to the rollercoaster!")
+height = int(input("What is your height in cm? "))
+
+#an example for if/else statement with the signs >,<,>=,<=,!=,==
+if height > 100:
+    print("Congratulations, You can ride!")
+else:
+    print("Sorry, You can not ride!")
+
+#an example of not equal to !=
+print("Welcome to the rollercoaster!")
+height = int(input("What is your height in cm? "))
+
+if height != 100:
+    print("Congratulations, You can ride!")
+else:
+    print("Sorry, You can not ride!")
