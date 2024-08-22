@@ -1,0 +1,6 @@
+name = "Angela"
+length = len(name)
+print(length)
+
+user_name = "arfi_barfi_13"
+print(user_name)
